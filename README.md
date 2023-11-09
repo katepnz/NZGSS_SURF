@@ -50,7 +50,7 @@ These teaching materials are aimed at tertiary students who haven’t engaged wi
 The teaching materials are designed to work with the 2018 data only, but can be adapted to include both the 2018 and 2021 survey waves.
 
 
-Creating and presenting bivariate statistics
+<i>Creating and presenting bivariate statistics</i>
 
 •	Workshop – Bivariate statistics.docx: Workshop instructions for creating bivariate statistics and presenting them in charts. Conducting Chi2 and t-tests.
 
@@ -59,14 +59,14 @@ Creating and presenting bivariate statistics
 •	Bivariate statistics assignment.docx: Policy memo writing assignment that assesses skills developed in the bivariate statistics workshop.
 
 
-Conducting ANOVA/OLS linear regression
+<i>Conducting ANOVA/OLS linear regression</i>
 
 •	Workshop - ANOVA simple linear regression in Excel.docx: Workshop instructions for running a simple linear regression (one independent variable) and creating dummy variables from categorical variables and including them in the model.
 
 •	Workshop data - ANOVA simple linear regression.xlsx: Data for the simple linear regression workshop.
 
 
-Conducting and presenting OLS multivariable linear regression
+<i>Conducting and presenting OLS multivariable linear regression</i>
 
 •	Workshop - Multivariable regression in Excel.docx: Workshop instructions for running a multivariable regression model and including interaction terms in the model.
 
